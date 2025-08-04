@@ -1,3 +1,2 @@
 # ReactComponents
-Just a practice repository.  
-Created with CodeSandbox
+Created with Code Sanbox, this is a tiny repo for practice.
